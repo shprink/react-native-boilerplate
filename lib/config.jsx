@@ -1,0 +1,4 @@
+export const ANDROID_HEADER_HEIGHT = 60;
+export const ANDROID_STATUSBAR_HEIGHT = 25;
+
+export const IOS_HEADER_HEIGHT = 60;

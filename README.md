@@ -1,9 +1,18 @@
 # react-native-webpack-boilerplate
 
+## Prerequisite
+
+```
+npm install rnpm -g
+```
+
 ## Install
 
 ```
 npm install
+
+# Link icons
+rnpm link
 ```
 
 ## dev
